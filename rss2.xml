@@ -9,8 +9,57 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>He is currently pursuing the master&#39;s degree with Zhejiang Sci-Tech University, Hangzhou, China</description>
-    <pubDate>Mon, 07 Jul 2025 03:26:36 GMT</pubDate>
+    <pubDate>Tue, 08 Jul 2025 11:03:11 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title></title>
+      <link>http://example.com/2025/07/08/Convex%20Optimization%20Theory%20Study/</link>
+      <guid>http://example.com/2025/07/08/Convex%20Optimization%20Theory%20Study/</guid>
+      <pubDate>Tue, 08 Jul 2025 10:58:45 GMT</pubDate>
+      
+        
+        
+      <description>&lt;hr&gt;
+&lt;p&gt;title： Convex Optimization Theory Study&lt;br&gt;date： 2025&amp;#x2F;07&lt;br&gt;categories：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Convex Optimization Theory Study&lt;/p&gt;
+&lt;h</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<hr><p>title： Convex Optimization Theory Study<br>date： 2025&#x2F;07<br>categories：</p><ul><li><p>Convex Optimization Theory Study</p><hr></li></ul>]]></content:encoded>
+      
+      
+      
+      
+      <comments>http://example.com/2025/07/08/Convex%20Optimization%20Theory%20Study/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.com/2025/07/08/pyomo/</link>
+      <guid>http://example.com/2025/07/08/pyomo/</guid>
+      <pubDate>Tue, 08 Jul 2025 10:58:17 GMT</pubDate>
+      
+        
+        
+      <description>&lt;hr&gt;
+&lt;h2 id=&quot;title：-Convex-Optimization-Theory-Studydate：-2025-07categories：-Convex-Optimization-Theory-Study&quot;&gt;&lt;a href=&quot;#title：-Convex-Optim</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<hr><h2 id="title：-Convex-Optimization-Theory-Studydate：-2025-07categories：-Convex-Optimization-Theory-Study"><a href="#title：-Convex-Optimization-Theory-Studydate：-2025-07categories：-Convex-Optimization-Theory-Study" class="headerlink" title="title： Convex Optimization Theory Studydate： 2025&#x2F;07categories： - Convex Optimization Theory Study"></a>title： Convex Optimization Theory Study<br>date： 2025&#x2F;07<br>categories：<br> - Convex Optimization Theory Study</h2>]]></content:encoded>
+      
+      
+      
+      
+      <comments>http://example.com/2025/07/08/pyomo/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Hello World</title>
