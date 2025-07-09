@@ -4,67 +4,18 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Constraint Frontier</title>
-    <link>http://example.com/</link>
+    <link>https://lbnzckai.top/</link>
     
-    <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://lbnzckai.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>He is currently pursuing the master&#39;s degree with Zhejiang Sci-Tech University, Hangzhou, China</description>
-    <pubDate>Tue, 08 Jul 2025 11:03:11 GMT</pubDate>
+    <pubDate>Wed, 09 Jul 2025 01:51:07 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
-      <title></title>
-      <link>http://example.com/2025/07/08/Convex%20Optimization%20Theory%20Study/</link>
-      <guid>http://example.com/2025/07/08/Convex%20Optimization%20Theory%20Study/</guid>
-      <pubDate>Tue, 08 Jul 2025 10:58:45 GMT</pubDate>
-      
-        
-        
-      <description>&lt;hr&gt;
-&lt;p&gt;title： Convex Optimization Theory Study&lt;br&gt;date： 2025&amp;#x2F;07&lt;br&gt;categories：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Convex Optimization Theory Study&lt;/p&gt;
-&lt;h</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<hr><p>title： Convex Optimization Theory Study<br>date： 2025&#x2F;07<br>categories：</p><ul><li><p>Convex Optimization Theory Study</p><hr></li></ul>]]></content:encoded>
-      
-      
-      
-      
-      <comments>http://example.com/2025/07/08/Convex%20Optimization%20Theory%20Study/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://example.com/2025/07/08/pyomo/</link>
-      <guid>http://example.com/2025/07/08/pyomo/</guid>
-      <pubDate>Tue, 08 Jul 2025 10:58:17 GMT</pubDate>
-      
-        
-        
-      <description>&lt;hr&gt;
-&lt;h2 id=&quot;title：-Convex-Optimization-Theory-Studydate：-2025-07categories：-Convex-Optimization-Theory-Study&quot;&gt;&lt;a href=&quot;#title：-Convex-Optim</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<hr><h2 id="title：-Convex-Optimization-Theory-Studydate：-2025-07categories：-Convex-Optimization-Theory-Study"><a href="#title：-Convex-Optimization-Theory-Studydate：-2025-07categories：-Convex-Optimization-Theory-Study" class="headerlink" title="title： Convex Optimization Theory Studydate： 2025&#x2F;07categories： - Convex Optimization Theory Study"></a>title： Convex Optimization Theory Study<br>date： 2025&#x2F;07<br>categories：<br> - Convex Optimization Theory Study</h2>]]></content:encoded>
-      
-      
-      
-      
-      <comments>http://example.com/2025/07/08/pyomo/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
       <title>Hello World</title>
-      <link>http://example.com/2025/07/06/hello-world/</link>
-      <guid>http://example.com/2025/07/06/hello-world/</guid>
+      <link>https://lbnzckai.top/2025/07/06/hello-world/</link>
+      <guid>https://lbnzckai.top/2025/07/06/hello-world/</guid>
       <pubDate>Sun, 06 Jul 2025 02:49:52 GMT</pubDate>
       
         
@@ -74,12 +25,76 @@
       
       
       
-      <content:encoded><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div><p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div><p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div><p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div><p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div><p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div><p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div><p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div>]]></content:encoded>
+      
+      
+      <category domain="https://lbnzckai.top/categories/Convex-Optimization-Theory-Study/">Convex Optimization Theory Study</category>
       
       
       
+      <comments>https://lbnzckai.top/2025/07/06/hello-world/#disqus_thread</comments>
       
-      <comments>http://example.com/2025/07/06/hello-world/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Convex Optimization Theory Study</title>
+      <link>https://lbnzckai.top/2025/07/01/Convex%20Optimization/</link>
+      <guid>https://lbnzckai.top/2025/07/01/Convex%20Optimization/</guid>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;hr&gt;
+&lt;p&gt;1.目录&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;这里是课程学习链接：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&quot;link&quot;   href=&quot;https://www.bilibili.com/video/BV19M411T7S7/?spm_id_from=333.337.se</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<hr><p>1.目录</p><hr><p>这里是课程学习链接：</p><ul><li><a class="link"   href="https://www.bilibili.com/video/BV19M411T7S7/?spm_id_from=333.337.search-card.all.click&vd_source=c959617fdc8f782d13d2f32f8d935103" >凸优化 中科大 凌青老师 4k高清修复（全集）_哔哩哔哩_bilibili<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li></ul>]]></content:encoded>
+      
+      
+      <category domain="https://lbnzckai.top/categories/Convex-Optimization/">Convex Optimization</category>
+      
+      
+      <category domain="https://lbnzckai.top/tags/Optimization/">Optimization</category>
+      
+      
+      <comments>https://lbnzckai.top/2025/07/01/Convex%20Optimization/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>pyomo Study</title>
+      <link>https://lbnzckai.top/2025/07/01/pyomo/</link>
+      <guid>https://lbnzckai.top/2025/07/01/pyomo/</guid>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;hr&gt;
+&lt;p&gt;1.目录&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;这里是pyomo基础教程链接：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&quot;link&quot;   href=&quot;https://zhuanlan.zhihu.com/p/480729614&quot; &gt;优化模型建模语言 Pyomo 入门教程 -</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<hr><p>1.目录</p><hr><p>这里是pyomo基础教程链接：</p><ul><li><a class="link"   href="https://zhuanlan.zhihu.com/p/480729614" >优化模型建模语言 Pyomo 入门教程 - 知乎<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li></ul>]]></content:encoded>
+      
+      
+      <category domain="https://lbnzckai.top/categories/pyomo-study/">pyomo study</category>
+      
+      
+      <category domain="https://lbnzckai.top/tags/pyomo/">pyomo</category>
+      
+      
+      <comments>https://lbnzckai.top/2025/07/01/pyomo/#disqus_thread</comments>
       
     </item>
     
